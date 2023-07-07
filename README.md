@@ -21,7 +21,9 @@ Although the code is mine, I did not generate the questions. I sourced JavaScrip
 
 ## Roadmap
 . Currently, there's no way to see the leaderboard unless you take the quiz. In the future, a link will be added to allow direct access to the leaderboard.
+
 . Increase the number of available questions.
+
 . Polish the look of the site.
 
 
