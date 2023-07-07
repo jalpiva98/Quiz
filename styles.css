@@ -1,0 +1,142 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  #start-container {
+    text-align: center;
+  }
+  
+  #time {
+    display: inline-block;
+    width: 33%;
+    background-color: blanchedalmond;
+    color: black;
+    width: fit-content;
+    border-radius: 10px;
+    color: white;
+  }
+  
+  #start-btn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  
+  #quiz-container {
+    display: none;
+  }
+  
+  #question {
+    margin-bottom: 10px;
+    padding-left: 20px;
+    background-color: #4CAF50;
+    width: fit-content;
+    border-radius: 10px;
+    color: white;
+  }
+  
+  #choices {
+    list-style-type: square;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    
+  }
+  
+  #choices li {
+    margin: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+    background-color: rebeccapurple;
+    border-radius: 10px;
+    width: 33%;
+    height: 30px;
+    text-align: start;
+    color: white;
+  }
+  
+  #feedback {
+    margin-bottom: 10px;
+  }
+  
+  #initials-container {
+    display: none;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #initials-form {
+    margin-top: 10px;
+  }
+  
+  #initials-form label {
+    margin-right: 10px;
+  }
+  
+  #initials-form input {
+    padding: 5px;
+  }
+  
+  #initials-form button {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #leaderboard-container {
+    display: none;
+    padding-left: 20px;
+    
+  }
+  
+  #leaderboard-list {
+    list-style-type: square;
+    margin: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+    background-color: rebeccapurple;
+    border-radius: 10px;
+    width: 33%;
+    height: 30px;
+    text-align: start;
+    color: white;
+  }
+  
+  #leaderboard-list li {
+    margin-bottom: 5px;
+  }
+  
+  #go-back-btn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: point
+}
+
+.hide {
+    display: none;
+  }
