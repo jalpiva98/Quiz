@@ -20,9 +20,9 @@ This is a quiz to test your JavaScript knowledge. It keeps score and shows u a l
 Although the code is mine, I did not generate the questions. I sourced JavaScript questions for beginners.
 
 ## Roadmap
-1.- Currently, there's no way to see the leaderboard unless you take the quiz. In the future, a link will be added to allow direct access to the leaderboard.
-2.- Increase the number of available questions.
-3.- Polish the look of the site.
+. Currently, there's no way to see the leaderboard unless you take the quiz. In the future, a link will be added to allow direct access to the leaderboard.
+. Increase the number of available questions.
+. Polish the look of the site.
 
 
 ## Preview
