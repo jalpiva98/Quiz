@@ -2,19 +2,19 @@
 This is a quiz to test your JavaScript knowledge. It keeps score and shows u a leaderboard,
 
 ## Features
--Start the quiz whenever you want.
--Timed quiz.
--Choose from a variety of options to answer each question.
--Receive feedback after giving each answer.
--When you select the wrong answer, 5 seconds are subtracted from the timer.
--Display the final score and store it with your initials in a leaderboard.
--Retake the quiz as many times as you want.
+- Start the quiz whenever you want.
+- Timed quiz.
+- Choose from a variety of options to answer each question.
+- Receive feedback after giving each answer.
+- When you select the wrong answer, 5 seconds are subtracted from the timer.
+- Display the final score and store it with your initials in a leaderboard.
+- Retake the quiz as many times as you want.
 
 
 ## Technologies Used
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## Disclaimer
 Although the code is mine, I did not generate the questions. I sourced JavaScript questions for beginners.
